@@ -1,6 +1,6 @@
 # vimrc
 
-```shell
+```vim
 syntax on
 
 set noerrorbells
